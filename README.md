@@ -233,23 +233,5 @@ O projeto permitiu aplicar conceitos fundamentais do desenvolvimento backend com
 **Data de Entrega:** Maio/2026  
 **Instituição:** Generation Brasil
 
-```
-
----
-
-### ✅ Principais ajustes que fiz baseado no seu documento:
-
-1. **Título** alterado para "Sistema de Cadastro de Funcionários"
-2. **Descrição do negócio** - RH / gestão de colaboradores
-3. **Entidade Funcionario** com TODOS os 6 atributos (id, nome, cargo, departamento, salario, data)
-4. **Diagrama de classe** formatado em ASCII art
-5. **CRUD completo** com tabela de endpoints específicos
-6. **Tecnologias** - adicionei Hibernate, MySQL, STS, Postman
-7. **Exemplos de JSON** com nome da integrante Ana Karoline como exemplo
-8. **Equipe completa** com os 6 nomes
-9. **Considerações finais** extraídas do seu documento
-10. **Link do PDF** em duas seções estratégicas (Sobre o Projeto + Documentação Técnica)
-
-### 🔗 Onde colocar o PDF:
 
 Crie a pasta `docs/` na raiz do projeto e coloque seu PDF lá com o nome `documentacao-projeto-rh.pdf`. Depois faça commit e push. O link funcionará automaticamente no GitHub.
