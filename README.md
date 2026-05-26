@@ -14,7 +14,7 @@ O sistema permite realizar operações completas de **cadastro, consulta, atuali
 
 > 📄 **Documentação Completa do Projeto**  
 > Acesse a documentação detalhida do sistema (prototipação das classes, DER, diagramas, manuais) em PDF:  
-> **[🔗 Clique aqui para baixar o PDF da Documentação](./docs/documentacao-projeto-rh.pdf)**  
+> **[🔗 Clique aqui para baixar o PDF da Documentação]([./docs/documentacao-projeto-rh.pdf](https://drive.google.com/file/d/1FdptVatAptM-iVIvtUIL8Q2yh9dNwOUi/view?usp=sharing))**  
 > *Substitua o caminho pelo local real do seu PDF*
 
 ## 🎯 Funcionalidades Principais (CRUD)
