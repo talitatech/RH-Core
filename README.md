@@ -1,4 +1,4 @@
-```markdown
+
 # 🧑‍💼 RH Core - Sistema de Cadastro de Funcionários
 
 [![Java](https://img.shields.io/badge/Java-17+-red.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
