@@ -234,4 +234,3 @@ O projeto permitiu aplicar conceitos fundamentais do desenvolvimento backend com
 **Instituição:** Generation Brasil
 
 
-Crie a pasta `docs/` na raiz do projeto e coloque seu PDF lá com o nome `documentacao-projeto-rh.pdf`. Depois faça commit e push. O link funcionará automaticamente no GitHub.
