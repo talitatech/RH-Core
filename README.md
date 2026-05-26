@@ -1,8 +1,3 @@
-Perfeito! Agora que conheço os detalhes reais do projeto, vou **reescrever o README completo e personalizado** com as informações corretas do seu grupo, entidade `Funcionario`, atributos, tecnologias e **incluindo o link do PDF da documentação** no meio do texto.
-
----
-
-```markdown
 # 🧑‍💼 Projeto RH - Sistema de Cadastro de Funcionários
 
 [![Java](https://img.shields.io/badge/Java-17+-red.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
