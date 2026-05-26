@@ -1,4 +1,3 @@
-
 # 🧑‍💼 RH Core - Sistema de Cadastro de Funcionários
 
 [![Java](https://img.shields.io/badge/Java-17+-red.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
@@ -6,6 +5,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![Maven](https://img.shields.io/badge/Maven-3.8+-blue.svg)](https://maven.apache.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Projeto--RH-181717?logo=github)](https://github.com/Projeto-Integrador-Gen-Grupo1/Projeto-RH)
 
 ## 📋 Sobre o Projeto
 
@@ -18,6 +18,10 @@ A aplicação foi criada com foco no aprendizado e aplicação prática de tecno
 > 📄 **Documentação Completa do Projeto**  
 > Acesse a documentação detalhada do sistema (prototipação das classes, DER, diagramas, escopo do projeto) em PDF:  
 > **[🔗 Clique aqui para baixar o PDF da Documentação](https://drive.google.com/file/d/1FdptVatAptM-iVIvtUIL8Q2yh9dNwOUi/view?usp=sharing)**
+
+> 💻 **Código-Fonte do Projeto**  
+> Acesse o repositório original no GitHub:  
+> **[🔗 github.com/Projeto-Integrador-Gen-Grupo1/Projeto-RH](https://github.com/Projeto-Integrador-Gen-Grupo1/Projeto-RH)**
 
 ## 🎯 Funcionalidades Principais (CRUD)
 
@@ -169,9 +173,13 @@ A entidade `Funcionario` representa os colaboradores cadastrados no sistema RH C
 ### ❌ Deletar Funcionário (DELETE)
 **Endpoint:** `DELETE http://localhost:8080/funcionarios/1`
 
-> 📄 **Documentação Técnica Completa**  
-> Para mais detalhes sobre a prototipação das classes, DER (Diagrama de Entidades), diagramas de classe, escopo do projeto e manual do sistema, consulte o PDF:  
-> **[📥 Baixar Documentação do RH Core (PDF)](https://drive.google.com/file/d/1FdptVatAptM-iVIvtUIL8Q2yh9dNwOUi/view?usp=sharing)**
+## 📚 Recursos e Links Úteis
+
+| Recurso | Link |
+|---------|------|
+| 📄 **Documentação do Projeto (PDF)** | [Clique aqui para baixar](https://drive.google.com/file/d/1FdptVatAptM-iVIvtUIL8Q2yh9dNwOUi/view?usp=sharing) |
+| 💻 **Repositório no GitHub** | [github.com/Projeto-Integrador-Gen-Grupo1/Projeto-RH](https://github.com/Projeto-Integrador-Gen-Grupo1/Projeto-RH) |
+| 🧪 **Testar API no Postman** | Importe a coleção do repositório (se disponível) |
 
 ## 📂 Estrutura do Projeto
 
@@ -239,3 +247,9 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 **Status do Projeto:** ✅ Concluído  
 **Data de Entrega:** Maio/2026  
 **Instituição:** Generation Brasil
+
+**🔗 Links Rápidos:** 
+- [Documentação PDF](https://drive.google.com/file/d/1FdptVatAptM-iVIvtUIL8Q2yh9dNwOUi/view?usp=sharing) 
+- [Repositório GitHub](https://github.com/Projeto-Integrador-Gen-Grupo1/Projeto-RH)
+```
+
